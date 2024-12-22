@@ -3,6 +3,7 @@
 # GEGA
 
 This repository contains codes for the paper “[GEGA: Graph Convolutional Networks and Evidence Retrieval Guided Attention for Enhanced Document-level Relation Extraction](https://arxiv.org/abs/2407.21384)”.
+
 🔥🔥🔥GEGA is accepted by ICASSP 2025(main conference)! Thanks to all collaborators！
 
 ## Requirements
