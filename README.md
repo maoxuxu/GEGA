@@ -20,6 +20,12 @@ The following packages are required:
 - ujson
 - tqdm
 
+## Dataset
+The download link for the dataset used in the paper is:
+ ► DocRED：https: //github.com/thunlp/DocRED
+ ► Re-DocRED：https://github.com/tonytan48/Re-DocRED
+ ► Revisit-DocRED：https://github.com/AndrewZhe/Revisit-DocRED
+
 ## Training
 
 1. **Fully-supervised setting**  
